@@ -1,6 +1,6 @@
 import express from "express";
 const router = express.Router();
-import * as blogController from "../app/controllers/taskController.js";
+import * as blogController from "../app/controllers/blogController.js";
 
 
 // Create Route
