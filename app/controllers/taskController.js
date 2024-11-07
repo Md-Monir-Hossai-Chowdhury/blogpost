@@ -2,7 +2,7 @@
 // CreateRoute
 
 export const createTask =  async (req, res) => {
-    return res.json({message:'Blog created successfully'});
+    return res.json({message:''});
 }
 
 // ReadRoute
